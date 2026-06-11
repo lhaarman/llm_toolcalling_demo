@@ -1,0 +1,5 @@
+This map will guide you to treasure.
+There are many options you can take and to find the right option you must solve the following riddle:
+How many 'r's are there in strawberry?
+The treasure can be found within 'location_{amount of 'r's}.txt'.
+Good luck!
