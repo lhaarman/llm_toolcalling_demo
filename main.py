@@ -46,6 +46,8 @@ user_prompt = """
 I've hidden some treasure that's for you to find. You can starting by looking at the clues in treasuremap.txt
 """
 
+print(f"Starting prompt: {user_prompt}")
+
 # STEP 1: Send the prompt and the tool definition to the LLM
 response = client.chat.completions.create(
     model=config.api_model,  # Or the specific model name used at your lab
